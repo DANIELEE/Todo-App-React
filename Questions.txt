@@ -3,6 +3,8 @@
 - Q1 const 랑 function 의 차이
 
 - Q2 prop 와 비구조화 할당의 차이
+ > https://learnjs.vlpt.us/basics/06-object.html#%EA%B0%9D%EC%B2%B4-%EB%B9%84%EA%B5%AC%EC%A1%B0%ED%99%94-%ED%95%A0%EB%8B%B9
+ > 코드 최적화
 
 - Q3 클래스형 컴포넌트 
  > https://react.vlpt.us/basic/24-class-component.html
